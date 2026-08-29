@@ -44,6 +44,23 @@ public class User {
         this.createdAt = createdAt;
     }
 
+    public User(
+            String id,
+            String username,
+            String password,
+            String displayName,
+            String role,
+            Boolean enabled,
+            long createdAt) {
+        this.id = id;
+        this.username = username;
+        this.password = password;
+        this.displayName = displayName;
+        this.role = role;
+        this.enabled = enabled;
+        this.createdAt = createdAt;
+    }
+
     public String getId() {
         return id;
     }

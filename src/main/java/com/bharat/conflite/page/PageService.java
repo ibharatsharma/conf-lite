@@ -78,7 +78,8 @@ public class PageService {
         long now = System.currentTimeMillis();
 
         Page page = new Page(
-                UUID.randomUUID().toString(),
+                //UUID.randomUUID().toString(),
+                null,
                 slug,
                 title,
                 markdown,
