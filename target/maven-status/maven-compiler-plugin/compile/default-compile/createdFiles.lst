@@ -1,0 +1,17 @@
+com\bharat\conflite\user\User.class
+com\bharat\conflite\config\SecurityConfig.class
+com\bharat\conflite\user\DatabaseUserDetailsService.class
+com\bharat\conflite\config\DatabaseConfig.class
+com\bharat\conflite\ConflLiteApplication.class
+com\bharat\conflite\page\PageRepository.class
+com\bharat\conflite\page\PageController.class
+com\bharat\conflite\user\RegistrationForm.class
+com\bharat\conflite\markdown\MarkdownRenderer.class
+com\bharat\conflite\page\PageForm.class
+com\bharat\conflite\config\WebModelAdvice.class
+com\bharat\conflite\user\UserService.class
+com\bharat\conflite\page\Page.class
+com\bharat\conflite\page\PageService.class
+com\bharat\conflite\user\UserController.class
+com\bharat\conflite\user\UserRepository.class
+com\bharat\conflite\config\DatabaseConfig$SqliteDialect.class

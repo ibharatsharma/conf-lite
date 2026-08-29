@@ -1,0 +1,16 @@
+C:\workspace\conf-lite\src\main\java\com\bharat\conflite\config\DatabaseConfig.java
+C:\workspace\conf-lite\src\main\java\com\bharat\conflite\config\SecurityConfig.java
+C:\workspace\conf-lite\src\main\java\com\bharat\conflite\config\WebModelAdvice.java
+C:\workspace\conf-lite\src\main\java\com\bharat\conflite\ConflLiteApplication.java
+C:\workspace\conf-lite\src\main\java\com\bharat\conflite\markdown\MarkdownRenderer.java
+C:\workspace\conf-lite\src\main\java\com\bharat\conflite\page\Page.java
+C:\workspace\conf-lite\src\main\java\com\bharat\conflite\page\PageController.java
+C:\workspace\conf-lite\src\main\java\com\bharat\conflite\page\PageForm.java
+C:\workspace\conf-lite\src\main\java\com\bharat\conflite\page\PageRepository.java
+C:\workspace\conf-lite\src\main\java\com\bharat\conflite\page\PageService.java
+C:\workspace\conf-lite\src\main\java\com\bharat\conflite\user\DatabaseUserDetailsService.java
+C:\workspace\conf-lite\src\main\java\com\bharat\conflite\user\RegistrationForm.java
+C:\workspace\conf-lite\src\main\java\com\bharat\conflite\user\User.java
+C:\workspace\conf-lite\src\main\java\com\bharat\conflite\user\UserController.java
+C:\workspace\conf-lite\src\main\java\com\bharat\conflite\user\UserRepository.java
+C:\workspace\conf-lite\src\main\java\com\bharat\conflite\user\UserService.java
