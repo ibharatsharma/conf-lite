@@ -57,7 +57,11 @@ public class User {
         this.password = password;
         this.displayName = displayName;
         this.role = role;
-        this.enabled = enabled;
+        if(enabled != null) {
+            this.enabled = enabled ? 1 : 0;
+        } else {
+            this.enabled = null;
+        }
         this.createdAt = createdAt;
     }
 
