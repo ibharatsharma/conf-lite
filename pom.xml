@@ -14,9 +14,9 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.example</groupId>
-    <artifactId>confluence-lite</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <groupId>com.bharat</groupId>
+    <artifactId>conf-lite</artifactId>
+    <version>1</version>
 
     <name>confluence-lite</name>
     <description>Confluence-like Markdown knowledge base</description>
